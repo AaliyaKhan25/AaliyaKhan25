@@ -7,16 +7,6 @@
 
 🤖 Working at the intersection of **AI/ML**, **cybersecurity**, and **full-stack development**
 
-🎙️ Built **RAGINGOA**, a voice-enabled RAG pipeline for Hacker House Goa task-2 — Sarvam STT → MiniLM/FAISS retrieval → Groq generation
-
-🛠️ Research Intern at **DRDO**, in collaboration with MANIT Bhopal & IIT Indore — soft robotic hand gripper design
-
-🏎️ EV & Web Dev Team Member at **GS Motorsports**, SGSITS's official Formula Student racing team
-
-🏆 1st Place at PRARUPAM (AAROHAN Techfest) for **PRAHAAR-AI**, an AI-based defense intelligence system
-
-🚩 Top 100 teams nationally — **e-Rakshak National Cybersecurity Hackathon** CTF qualifier
-
 💼 Open to internships, research collaborations, and freelance web dev work
 
 📧 **aaliyakhanonly25@gmail.com** | 🌐 [Portfolio](https://aaliyakhan25.github.io/Aaliya-s-Portfolio/) | 💼 [LinkedIn](https://linkedin.com/in/aaliya-khan2425)
